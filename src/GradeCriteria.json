@@ -1,0 +1,84 @@
+{
+    "allCriteria": [
+        {
+            "criteria": "Tell them what you are going to tell them",
+            "id": "C000"
+        },
+        {
+            "criteria": "Tell them",
+            "id": "C001"
+        },
+        {
+            "criteria": "Tell them what you told them",
+            "id": "C002"
+        },
+        {
+            "criteria": "Know your Topic",
+            "id": "C003"
+        },
+        {
+            "criteria": "Eye Contact: Look around your audience and focus on one person at a time",
+            "id": "C004"
+        },
+        {
+            "criteria": "Volume: Be sure your audience can hear you",
+            "id": "C005"
+        },
+        {
+            "criteria": "Be enthusiastic and passionate",
+            "id": "C006"
+        },
+        {
+            "criteria": "Be confident in your knowledge",
+            "id": "C007"
+        },
+        {
+            "criteria": "Be down to earth; establish rapport with the students",
+            "id": "C008"
+        },
+        {
+            "criteria": "Strive for maximum interaction; engage with the students",
+            "id": "C009"
+        },
+        {
+            "criteria": "Break technique down to multiple segments",
+            "id": "C010"
+        },
+        {
+            "criteria": "Use analogies people can relate to (real life references)",
+            "id": "C011"
+        },
+        {
+            "criteria": "Sell the sizzle",
+            "id": "C012"
+        },
+        {
+            "criteria": "Have fun with the class",
+            "id": "C013"
+        },
+        {
+            "criteria": "Never bring personal life into the classroom",
+            "id": "C014"
+        },
+        {
+            "criteria": "Change tone of voice",
+            "id": "C015"
+        },
+        {
+            "criteria": "Demonstrate and summarize",
+            "id": "C016"
+        },
+        {
+            "criteria": "Incorporate safety into your teaching",
+            "id": "C017"
+        },
+        {
+            "criteria": "Use focus anchors",
+            "id": "C018"
+        },
+        {
+            "criteria": "Strong body language",
+            "id": "C019"
+        }
+    ]
+}

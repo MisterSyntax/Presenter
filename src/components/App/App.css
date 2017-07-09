@@ -1,7 +1,12 @@
 /**Import global variables using import**/
 @import url('../../cssGlobals/colors.css');
 
+
 /**use global variables like below**/
 body{
-    color: var(--primary-color);
+    color: black;
+    font-family: "HelveticaNeue-Light", "Helvetica Neue Light","Helvetica";
+    font-weight: 600;
+    display: flex;
+    justify-content: center;
 }

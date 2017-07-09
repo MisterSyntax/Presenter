@@ -2,4 +2,7 @@
 :root {
   /**also used for flyouts**/
   --primary-color: #D99006;
+  --awesome: #5cb85c;
+  --almost-there: #5bc0de;
+  --needs-improvement: #E0E0E0;
 }
